@@ -1,0 +1,15 @@
+C:\GitHub\ConsoleClock\src\Clock\Clock\bin\Release\net7.0\Clock.exe
+C:\GitHub\ConsoleClock\src\Clock\Clock\bin\Release\net7.0\Clock.deps.json
+C:\GitHub\ConsoleClock\src\Clock\Clock\bin\Release\net7.0\Clock.runtimeconfig.json
+C:\GitHub\ConsoleClock\src\Clock\Clock\bin\Release\net7.0\Clock.dll
+C:\GitHub\ConsoleClock\src\Clock\Clock\bin\Release\net7.0\Clock.pdb
+C:\GitHub\ConsoleClock\src\Clock\Clock\obj\Release\net7.0\Clock.csproj.AssemblyReference.cache
+C:\GitHub\ConsoleClock\src\Clock\Clock\obj\Release\net7.0\Clock.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\ConsoleClock\src\Clock\Clock\obj\Release\net7.0\Clock.AssemblyInfoInputs.cache
+C:\GitHub\ConsoleClock\src\Clock\Clock\obj\Release\net7.0\Clock.AssemblyInfo.cs
+C:\GitHub\ConsoleClock\src\Clock\Clock\obj\Release\net7.0\Clock.csproj.CoreCompileInputs.cache
+C:\GitHub\ConsoleClock\src\Clock\Clock\obj\Release\net7.0\Clock.dll
+C:\GitHub\ConsoleClock\src\Clock\Clock\obj\Release\net7.0\refint\Clock.dll
+C:\GitHub\ConsoleClock\src\Clock\Clock\obj\Release\net7.0\Clock.pdb
+C:\GitHub\ConsoleClock\src\Clock\Clock\obj\Release\net7.0\Clock.genruntimeconfig.cache
+C:\GitHub\ConsoleClock\src\Clock\Clock\obj\Release\net7.0\ref\Clock.dll
